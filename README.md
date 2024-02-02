@@ -1,12 +1,12 @@
-Individual Technical Document: Product Dissection for LinkedIn
+**Individual Technical Document: Product Dissection for LinkedIn**
 
 
-Introduction
+**Introduction**
 
 This individual technical document aims to encapsulate the approach and contributions made during the research on LinkedIn, focusing on its product dissection and real-world problem-solving capabilities. LinkedIn, founded in 2002 and acquired by Microsoft in 2016, has transformed into the world's largest professional network, playing a pivotal role in addressing real-world challenges by providing innovative solutions through its comprehensive product offerings.
 
 
-Approach
+**Approach**
 
 Understanding LinkedIn's Mission and Evolution:
 
@@ -34,7 +34,7 @@ The final step involved comprehending LinkedIn's data model, including entities 
 
 
 
-Contributions
+**Contributions**
 
 Problem Identification:
 
@@ -53,7 +53,7 @@ Data Model Understanding:
 Provided insights into LinkedIn's data model, which is crucial for developers and data analysts in maintaining the platform's efficient functionality.
 
 
-Conclusion
+**Conclusion**
 
 LinkedIn's journey from a networking site to a global career development platform is a testament to its ability to identify and solve real-world problems faced by professionals. By enabling effective networking, simplifying job searching, enhancing personal branding, and offering skill development opportunities, LinkedIn has become an indispensable tool for individuals seeking career growth and advancement. Understanding its data model and infrastructure is key to appreciating how it facilitates professional growth, making it a vital resource in the professional world. This individual technical document captures the essence of LinkedIn's significance in addressing real-world challenges and its role in shaping the future of professional networking and development.
 
